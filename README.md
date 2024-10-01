@@ -7,4 +7,4 @@ Fooling around with Nevick Trees and phylogeny trees. Doing some algorithms for 
 Using {Bioinformatics Algorithms: a practical approach} book i wrote python files for Exercises "E?"
 
 ### Packages: 
- - ete3
+ - ete3 http://etetoolkit.org/
